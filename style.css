@@ -1,0 +1,16 @@
+.appicon {
+	float: left;
+	margin-right: 4px;
+	border-radius: 9px;
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+}
+.rank {
+	float: left;
+	background-color: #CCC;
+	margin-right: 4px;
+	padding: 4px;
+	width: 17px;
+	height: 47px;
+	text-align: right;
+}

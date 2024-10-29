@@ -1,0 +1,198 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: appreview 0.2.8\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/appreview\n"
+"POT-Creation-Date: 2012-05-16 14:45:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-05-16 23:56+0900\n"
+"Last-Translator: podspod <podspod.o0o0.jp@gmail.com>\n"
+"Language-Team: podspod <podspod.o0o0.jp@gmail.com>\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /Users/makoto/Desktop/project/wp_project/plugins/appreview/trunk \n"
+
+#: getFeed.php:102
+msgid "Price:"
+msgstr "価格："
+
+#: getFeed.php:104
+msgid "Review now"
+msgstr "レビューを書く"
+
+#: index.php:92
+msgid "Click to change"
+msgstr "クリックで切替"
+
+#: index.php:92
+msgid "App Review Assistant"
+msgstr "App Review アシスタント"
+
+#: index.php:110
+msgid "A site code has not been set up."
+msgstr "サイトコードが未設定です。"
+
+#: index.php:110
+msgid "LinkShare"
+msgstr "リンクシェア"
+
+#: index.php:110
+msgid " registered, yet ?"
+msgstr "への登録はお済みですか？"
+
+#: index.php:114
+msgid "site code:"
+msgstr "サイトコード:"
+
+#: index.php:116
+msgid "iOS App(Paid)"
+msgstr "iOSトップ有料App"
+
+#: index.php:117
+msgid "iOS App(Top Gross Paid)"
+msgstr "iOSトップセールスApp"
+
+#: index.php:118
+msgid "iPad App(Paid)"
+msgstr "iPadトップ有料App"
+
+#: index.php:119
+msgid "iPad App(Top Gross Paid)"
+msgstr "iPadトップセールスApp"
+
+#: index.php:120
+msgid "iOS App(New Paid)"
+msgstr "iOS新規有料App"
+
+#: index.php:121
+msgid "Mac App(Paid)"
+msgstr "Macトップ有料App"
+
+#: index.php:122
+msgid "Mac App(Top Gross Paid)"
+msgstr "MacトップセールスApp"
+
+#: index.php:250
+msgid "All"
+msgstr "すべて"
+
+#: index.php:251
+msgid "Business"
+msgstr "ビジネス"
+
+#: index.php:252
+msgid "Developer Tools"
+msgstr "開発ツール"
+
+#: index.php:253
+msgid "Education"
+msgstr "教育"
+
+#: index.php:254
+msgid "Entertainment"
+msgstr "エンターテインメント"
+
+#: index.php:255
+msgid "Finance"
+msgstr "ファイナンス"
+
+#: index.php:256
+msgid "Games"
+msgstr "ゲーム"
+
+#: index.php:257
+msgid "Health &amp; Fitness"
+msgstr "健康／フィットネス"
+
+#: index.php:258
+msgid "Lifestyle"
+msgstr "ライフスタイル"
+
+#: index.php:259
+msgid "Medical"
+msgstr "医学"
+
+#: index.php:260
+msgid "Music"
+msgstr "ミュージック"
+
+#: index.php:261
+msgid "News"
+msgstr "ニュース"
+
+#: index.php:262
+msgid "Photography"
+msgstr "写真"
+
+#: index.php:263
+msgid "Productivity"
+msgstr "仕事効率化"
+
+#: index.php:264
+msgid "Reference"
+msgstr "参考書"
+
+#: index.php:265
+msgid "Social Networking"
+msgstr "ソーシャルネットワーキング"
+
+#: index.php:266
+msgid "Sports"
+msgstr "スポーツ"
+
+#: index.php:267
+msgid "Travel"
+msgstr "旅行"
+
+#: index.php:268
+msgid "Utilities"
+msgstr "ユーティリティ"
+
+#: index.php:269
+msgid "Video"
+msgstr "ビデオ"
+
+#: index.php:270
+msgid "Weather"
+msgstr "天気"
+
+#: index.php:271
+msgid "Graphics &amp; Design"
+msgstr "グラフィック&amp;デザイン"
+
+#: index.php:274
+msgid "10 affairs"
+msgstr "10件"
+
+#: index.php:275
+msgid "100 affairs"
+msgstr "100件"
+
+#: index.php:276
+msgid "300 affairs"
+msgstr "300件"
+
+#: index.php:281
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: index.php:283
+msgid "Updating now...(Please wait a several minutes.)"
+msgstr "ランキングデータ取得中...(数分かかる場合があります)"
+
+#: index.php:304
+msgid "[Price is "
+msgstr "[価格は"
+
+#: index.php:304
+msgid "/"
+msgstr "/"
+
+#: index.php:304
+msgid "]"
+msgstr "現在]"
+
